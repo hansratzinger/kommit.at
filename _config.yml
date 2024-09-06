@@ -58,10 +58,10 @@ search_full_content      : false # true, false (default)
 search_provider          : # lunr (default), algolia, google
 
 google:
-  search_engine_id       : # "db3c0695a442ab162" # YOUR_SEARCH_ENGINE_ID
+  search_engine_id       : # "deineID" # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : # "2633a23cb03e7234"
+google_site_verification : # "1234a5678b9012c...."
 
 # Analytics
 analytics:
@@ -86,7 +86,7 @@ footer:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/kulturkreiskreuzstetten/?locale=de_DE
+      url: https://www.facebook.com/deinefacebookseite/?locale=de_DE
 
 # Reading Files
 include:
