@@ -1,26 +1,26 @@
 # main links
 main:
-  - title: "Events"
-    url: /events/  
-  - title: "Nachlese"
-    url: /nachlese/  
+  - title: "Beiträge"
+    url: /posts/  
+  - title: "Team"
+    url: /team/  
   - title: "Archiv"
     url: /archive/ 
-  - title: "Verein"
-    url: verein.html  
+  - title: ""
+    url: liste.html  
   - title: "Impressum"
     url: impressum.html
   - title: "Datenschutz"
     url: dsgvo.html
 leftside:
-  - title: "Events"
-    url: /events/   
-  - title: "Nachlese"
-    url: /nachlese/  
+  - title: "Beiträge"
+    url: /posts/  
+  - title: "Team"
+    url: /team/  
   - title: "Archiv"
     url: /archive/ 
-  - title: "Verein"
-    url: verein.html  
+  - title: "Liste"
+    url: liste.html  
   - title: "Impressum"
     url: impressum.html
   - title: "Datenschutz"

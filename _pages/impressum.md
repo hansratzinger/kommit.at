@@ -4,12 +4,7 @@ permalink: /impressum
 layout: single
 ---
 
----
-
-## **Verein "Kulturkreis Kreuzstetten"**
-
-ZVR-Zahl: 941769818
-Der Verein wurde 2007 behördlich angemeldet.
+## **Bürgerliste "Kom:mit"**
 
 ### Adresse
 
@@ -20,16 +15,8 @@ Kirchenplatz 3
 
 Gerhard Gepp
 
-### Kassier
-
-Michael Fechter
-
 ### Kontakt  
 
-E-mail: <info@kultik.org>
-
-### Website Gestaltung
-
-Hans Ratzinger
+E-mail: <info@kommit.at>
 
 ---

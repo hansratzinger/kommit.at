@@ -20,7 +20,7 @@
 
 # Build settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -32,18 +32,18 @@ github_username:  hansratzinger
 
 # Site Settings
 locale                   : "de-AT"
-email                    : info@blablabla.com
-title                    : "Die Überschrift deiner Homepage auf der ersten Seite"
+email                    : info@kommit.at
+title                    : "Kreuzstetten - offen, miteinander, mitgestalten, innovativ, transparent"
 title_separator          : "-"
 subtitle                 : ""
 name                     : ""
 description              : "Allgemeine Beschreibung der Homepage für Suchmaschinen, wird nicht auf Homepage angezeigt"
-url                      : "http://www.blablabla.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://www.kommit.at" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
-repository               : "deinGitHubUserName/NamedeinesRepository" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "hansratzinger/kommit.at" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 #teaser                   : "/assets/images/haus/Vereinshaus.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 #logo                     : "/assets/images/logo/K3_logo_transparent_small_k_300x166.png"
-logo                     : "/assets/images/logo/logo-black.png"
+logo                     : "/assets/images/logo/logo-kommit.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -76,7 +76,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.JPG"
   bio              : # "I am an **amazing** person."
   location         : # "Somewhere"
-  email            :
+  email            : "info@kommit.at"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -84,9 +84,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/deinefacebookseite/?locale=de_DE
+    - label: # "Facebook"
+      icon: # "fab fa-fw fa-facebook-square"
+      url: #                     https://www.facebook.com/deinefacebookseite/?locale=de_DE
 
 # Reading Files
 include:
@@ -194,47 +194,27 @@ compress_html:
 
 # collections
 collections:
-  nachlese:
+  posts:
     output: true
     permalink: /:collection/:path/
-  events:
+  team:
     output: true
     permalink: /:collection/:path/
-  archive:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
-  # _verein
+  # _posts
   - scope:
-      path: ""
-      type: verein
+      path: "_posts"
+      type: posts
     values:
       layout: single
       sidebar:
         nav: "leftside"
-  # _events
+  # _team
   - scope:
-      path: ""
-      type: events
-    values:
-      layout: single
-      sidebar:
-        nav: "leftside"
-  # _nachlese
-  - scope:
-      path: ""
-      type: nachlese
-    values:
-      layout: single
-      sidebar:
-        nav: "leftside"
-  # _archive
-  - scope:
-      path: ""
-      type: archive
+      path: "_team"
+      type: team
     values:
       layout: single
       sidebar:
@@ -247,7 +227,3 @@ defaults:
       layout: single
       sidebar:
         nav: "leftside"
-      author_profile: false
-      share: false
-      
-

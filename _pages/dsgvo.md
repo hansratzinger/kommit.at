@@ -42,14 +42,14 @@ Was das EU-Recht betrifft, beziehen wir uns auf die VERORDNUNG (EU) 2016/679 DES
 <p>Sofern weitere regionale oder nationale Gesetze zur Anwendung kommen, informieren wir Sie in den folgenden Abschnitten darüber.</p>
 <h2 id="kontaktdaten-verantwortliche" class="adsimple-111878502">Kontaktdaten des Verantwortlichen</h2>
 <p>Sollten Sie Fragen zum Datenschutz haben, finden Sie nachfolgend die Kontaktdaten der verantwortlichen Person bzw. Stelle:<br />
-<span class="adsimple-111878502" style="font-weight: 400">Verein Arbeit im Dorf e.V.<br />
-Hauptstrasse 11, 2124 Kreuzstetten, Österreich</span>
+<span class="adsimple-111878502" style="font-weight: 400">Kommit<br />
+Bahnstrasse 1, 2124 Kreuzstetten, Österreich</span>
 <br />
 <span style="font-weight: 400">Vertretungsberechtigt: Gerhard Gepp</span>
 <br />
-E-Mail: <a href="mailto:info@kultik.org">info@kultik.org</a>
+E-Mail: <a href="mailto:info@kommit.at">info@kommit.at</a>
 <br />
-Impressum: <a href="https://www.kultik.org/impressum.html">https://www.kultik.org/impressum.html</a>
+Impressum: <a href="https://www.info@kommit.at/impressum.html">https://www.info@kommit.at/impressum.html</a>
 </p>
 <h2 id="speicherdauer" class="adsimple-111878502">Speicherdauer</h2>
 <p>Dass wir personenbezogene Daten nur so lange speichern, wie es für die Bereitstellung unserer Dienstleistungen und Produkte unbedingt notwendig ist, gilt als generelles Kriterium bei uns. Das bedeutet, dass wir personenbezogene Daten löschen, sobald der Grund für die Datenverarbeitung nicht mehr vorhanden ist. In einigen Fällen sind wir gesetzlich dazu verpflichtet, bestimmte Daten auch nach Wegfall des ursprüngliches Zwecks zu speichern, zum Beispiel zu Zwecken der Buchführung.</p>
